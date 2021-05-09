@@ -61,5 +61,5 @@
 
 [linkedin]: https://www.linkedin.com/in/ayomakatuwawala/
 [twitter]: https://twitter.com/AyomaKatuwawala
-[medium]: [https://ackatuwawala.medium.com/]
-[blogspot]: [https://readncode.blogspot.com/]
+[medium]: https://ackatuwawala.medium.com/
+[blogspot]: https://readncode.blogspot.com/
