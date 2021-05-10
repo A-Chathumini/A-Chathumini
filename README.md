@@ -27,6 +27,7 @@
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
