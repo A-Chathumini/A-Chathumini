@@ -4,7 +4,7 @@
 
 
 ## I'm a passionate IT undergraduate 
-- 🌱 I’m currently learning Angular and Flutter
+- 🌱 I’m currently learning MEAN Stack
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
